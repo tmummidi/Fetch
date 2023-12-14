@@ -94,7 +94,7 @@ Aspiring to contribute further, if selected as an intern, I am eager to delve in
 
 ## Walkthrough Video
 
-- [Walkthrough Video](https://github.com/yourusername/yourrepository/Walkthrough.mp4](https://github.com/Tarun-MR/Fetch/blob/main/Walkthrough.mp4))
+- [Walkthrough Video](https://github.com/Tarun-MR/Fetch/blob/main/Walkthrough.mp4)
 
 ## Troubleshooting
 
